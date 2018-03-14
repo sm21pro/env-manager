@@ -1,0 +1,24 @@
+{
+  "name": "env-rest-api",
+  "version": "1.0.0",
+  "description": "rest api in node to serve requests",
+  "main": "service.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: No test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sm21pro/env-manager.git"
+  },
+  "author": "srikanth mamidala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sm21pro/env-manager/issues"
+  },
+  "homepage": "https://github.com/sm21pro/env-manager#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "mongoose": "^5.0.10"
+  }
+}
